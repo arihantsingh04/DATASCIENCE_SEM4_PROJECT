@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 st.set_page_config(page_title="Feedback Sentiment Dashboard", layout="wide")
-st.title("🧠 Sentiment & Clustering Dashboard")
+st.title("🧠 Feedback Sentiment Dashboard")
 st.caption("Created by Arihant Singh | Data Science Project")
 
 # Upload or enter data
