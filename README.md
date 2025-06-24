@@ -56,10 +56,10 @@ Try the deployed app here: [https://feedbackanalyzer.streamlit.app/](https://fee
 ## ![s1](https://github.com/user-attachments/assets/c9616824-3ab0-43df-9fb4-5f65904663b9)
 
 
-## ![s1](https://github.com/user-attachments/assets/3a8629c3-dc88-4734-80fe-269aad69fc31)
+## ![s2](https://github.com/user-attachments/assets/f551bb5e-832c-440d-8fad-ec346b3be924)
 
 
-## ![s1](https://github.com/user-attachments/assets/c9a5ddd5-95d7-41b1-8278-b0c6dd4cad35)
+## ![s3](https://github.com/user-attachments/assets/e1f5fb6e-8eb3-489b-8451-75c43b95c0dd)
 
 
 ---
