@@ -10,9 +10,9 @@ from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-st.set_page_config(page_title="Sentiment Dashboard", layout="wide")
+st.set_page_config(page_title="Feedback Sentiment Dashboard", layout="wide")
 st.title("🧠 Sentiment & Clustering Dashboard")
-st.caption("Created by Uh-ree-hunt | Data Science Project")
+st.caption("Created by Arihant Singh | Data Science Project")
 
 # Upload or enter data
 st.subheader("1️⃣ Load Feedback")
